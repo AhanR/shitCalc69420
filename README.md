@@ -13,7 +13,7 @@ PRESENTING TO YOU SHITCALC69420
 # Features?
 
 - Complete usage of RAM, we don't believe in wasting any ram (or negative numbers. Who the fuck thought about that like numbers but less?? bunch of fucking dick.)<br>
-- We use all cores on your CPU, to make sure that no machine cycle ever goes to waste. #MachineCycleLivesMatter<br>
+- We use all cores on your CPU, to make sure that no machine cycle ever goes to waste. #MachineCyclesMatter<br>
 - Our calculator gives mathematics practice to your CPU and as we all know practice is what makes us perfect.<br>
 <br>
 <br>
