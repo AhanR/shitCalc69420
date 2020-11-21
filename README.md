@@ -2,7 +2,7 @@
 
 Every second quafhosjdbwfbillions of cpu cycles go unused and this is a waste of electricity and computing time, but we at team shitPost42069 have come up with a genius solution.
 
-PRESENTING TO YOU SHITCALC42069 
+PRESENTING TO YOU SHITCALC69420 
 
 you ask, what are the features?
 1)complete usage of ram, we don't believe in wasting any ram (or negative numbers for that fact)
