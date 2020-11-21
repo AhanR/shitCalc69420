@@ -10,4 +10,4 @@ you ask, what are the features?<br>
 3)our calculator gives mathamatics practice to your cpu and as we all know practice is what makes us perfect<br>
 <br>
 <br>
-this app was sponsored by satan.
+<sup>this app was sponsored by satan.<sub>
