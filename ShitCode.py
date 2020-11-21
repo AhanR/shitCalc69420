@@ -65,6 +65,3 @@ def add(m,n):
       n = int(n)
       #gandhian math
    return sum
-
-
-print(add(5.3,6))
