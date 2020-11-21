@@ -4,7 +4,7 @@
 
 _Rooted in inefficiency._ - NYPost
 
-Every second over 10<sup>10000000<sup>* CPU cycles go unused. This is a waste of electricity and computing time. Together, we can stop this. We at team ShitPost42069 have come up with a genius solution.
+Every second over 10<sup>10000000</sup>* CPU cycles go unused. This is a waste of electricity and computing time. Together, we can stop this. We at team ShitPost42069 have come up with a genius solution.
 
 <sub>* number may or may not be accurate.<sub>
 
@@ -17,4 +17,4 @@ PRESENTING TO YOU SHITCALC69420
 - Our calculator gives mathematics practice to your CPU and as we all know practice is what makes us perfect.<br>
 <br>
 <br>
-<sub>this app was sponsored by satan.<sub>
+<sub>this app was sponsored by satan.</sub>
