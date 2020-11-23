@@ -6,7 +6,7 @@ _Rooted in inefficiency._ - NYPost
 
 Every second over 10<sup>10000000<sup>*</sup></sup> CPU cycles go unused. This is a waste of electricity and computing time. Together, we can stop this. We at team ShitPost42069 have come up with a genius solution.
 
-<sub>* number may or may not be accurate.<sub>
+<sub><sub>* number may or may not be accurate.</sub><sub>
 
 PRESENTING TO YOU SHITCALC69420 
 
